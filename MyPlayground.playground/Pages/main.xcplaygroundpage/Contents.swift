@@ -142,7 +142,6 @@ madLibs("Snow White", noun: "rock", preposition: "with")
 func movie() -> String {
     return "Buzz Lightyear to the rescue!"
 }
-
 movie()
 
 
@@ -167,6 +166,7 @@ anyNumber()
 func char(name: String) -> String {
     return "To infinity and beyond, \(name)!"
 }
+
 char("Buzz")
 
 
